@@ -1,7 +1,7 @@
 INSERT INTO bears (name, age, gender, color, temperament, alive)
 values
 (
-  "Mr. Chocolate", 13, "male", "brown", "cool", 1
+  "Mr. Chocolate", 13, "M", "brown", "cool", 1
 ),
 (
   "Rowdy", 23, "male", "dark brown", "angry", 1
