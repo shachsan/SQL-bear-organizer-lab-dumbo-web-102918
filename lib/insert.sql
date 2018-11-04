@@ -10,7 +10,7 @@ values
   "Lisa", 33, "female", "light brown", "normal", 0
 ),
 (
-  "Jug", 13, "male", "brown", "cool", 1
+  "Jugar", 3, "male", "brown", "cool", 1
 ),
 (
   "Bobby", 13, "male", "brown", "cool", 1
