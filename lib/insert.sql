@@ -16,7 +16,7 @@ values
   "Melissa", 16, "female", "white", "cool", 1
 ),
 (
-  "Grinch", 9, "male", "white", "cool", 1
+  "Grinch", 9, "male", "white", "welcome", 1
 ),
 (
   "Wendy", 27, "female", "brown", "rude", 0
