@@ -6,6 +6,7 @@ CREATE TABLE bears (
   color TEXT,
   temperament TEXT,
   alive INTEGER
-): values (
+);
+ values (
   "Bobby", 13, "male", "brown", "cool", 1
 );
