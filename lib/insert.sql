@@ -22,5 +22,5 @@ values
   "Wendy", 27, "male", "brown", "cool", 0
 ),
 (
-  null, 7, "male", "brown", "cool", 1
+  null, 7, "male", "brown", "nice", 1
 ),
