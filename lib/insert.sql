@@ -23,4 +23,4 @@ values
 ),
 (
   null, 7, "male", "brown", "nice", 1
-),
+)
