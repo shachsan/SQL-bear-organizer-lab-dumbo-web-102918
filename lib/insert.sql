@@ -19,7 +19,7 @@ values
   "Grinch", 9, "male", "white", "cool", 1
 ),
 (
-  "Wendy", 27, "male", "brown", "rude", 0
+  "Wendy", 27, "female", "brown", "rude", 0
 ),
 (
   null, 7, "male", "brown", "nice", 1
