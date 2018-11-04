@@ -22,5 +22,5 @@ values
   "Wendy", 27, "F", "brown", "rude", 0
 ),
 (
-  null, 7, "male", "brown", "nice", 1
+  null, 7, "M", "brown", "nice", 1
 );
