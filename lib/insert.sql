@@ -7,7 +7,7 @@ values
   "Rowdy", 23, "M", "dark brown", "angry", 1
 ),
 (
-  "Tabitha", 33, "female", "light brown", "normal", 0
+  "Tabitha", 33, "F", "light brown", "normal", 0
 ),
 (
   "Sergeant Brown", 15, "male", "brown", "cool", 1
