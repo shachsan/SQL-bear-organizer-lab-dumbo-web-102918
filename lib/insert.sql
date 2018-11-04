@@ -7,7 +7,7 @@ values
   "Tiger", 23, "male", "dark brown", "angry", 1
 ),
 (
-  "Lisa", 33, "female", "light brown", "cool", 1
+  "Lisa", 33, "female", "light brown", "normal", 1
 ),
 (
   "Bobby", 13, "male", "brown", "cool", 1
