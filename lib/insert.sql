@@ -4,7 +4,7 @@ values
   "Mr. Chocolate", 13, "M", "brown", "cool", 1
 ),
 (
-  "Rowdy", 23, "male", "dark brown", "angry", 1
+  "Rowdy", 23, "M", "dark brown", "angry", 1
 ),
 (
   "Tabitha", 33, "female", "light brown", "normal", 0
