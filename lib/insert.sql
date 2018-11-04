@@ -4,7 +4,7 @@ values
   "Bobby", 13, "male", "brown", "cool", 1
 ),
 (
-  "T", 13, "male", "brown", "cool", 1
+  "Tiger", 13, "male", "brown", "cool", 1
 ),
 (
   "Bobby", 13, "male", "brown", "cool", 1
