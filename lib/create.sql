@@ -7,5 +7,5 @@ CREATE TABLE bears (
   temperament TEXT,
   alive INTEGER
 ) values (
-  "Bobby", 13, "male", "brown", "cool"
+  "Bobby", 13, "male", "brown", "cool", 1
 );
