@@ -1,3 +1,4 @@
 CREATE TABLE bears (
-  name 
+  name TEXT,
+  age
 )
