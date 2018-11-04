@@ -1,4 +1,4 @@
-INSERT INTO bears (name TEXT,age INTEGER,
+INSERT INTO bears (name,age INTEGER,
 gender TEXT,
 color TEXT,
 temperament TEXT,
