@@ -16,10 +16,11 @@ values
   "Melissa", 16, "female", "brown", "cool", 1
 ),
 (
-  "Grinch", 9, "male", "whil", "cool", 1
+  "Grinch", 9, "male", "white", "cool", 1
 ),
 (
-  "Bobby", 13, "male", "brown", "cool", 1
+  "Wendy
+", 13, "male", "brown", "cool", 1
 ),
 (
   "Bobby", 13, "male", "brown", "cool", 1
