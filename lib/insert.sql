@@ -13,7 +13,7 @@ values
   "Sergeant Brown", 15, "male", "brown", "cool", 1
 ),
 (
-  "Melissa", 16, "female", "brown", "cool", 1
+  "Melissa", 16, "female", "white", "cool", 1
 ),
 (
   "Grinch", 9, "male", "white", "cool", 1
