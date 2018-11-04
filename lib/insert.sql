@@ -10,7 +10,7 @@ values
   "Tabitha", 33, "F", "light brown", "normal", 0
 ),
 (
-  "Sergeant Brown", 15, "male", "brown", "cool", 1
+  "Sergeant Brown", 15, "M", "brown", "cool", 1
 ),
 (
   "Melissa", 16, "female", "white", "normal", 1
